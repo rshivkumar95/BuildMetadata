@@ -1,0 +1,136 @@
+************************************************************
+FileName: email/unfiled$public/SUPPORTSelfServiceNewUserLoginInformationSAMPLE.email
+FullName/Id: unfiled$public/SUPPORTSelfServiceNewUserLoginInformationSAMPLE/00X7F000000N76sUAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: email/unfiled$public/SupportSelfServiceResetPassword.email
+FullName/Id: unfiled$public/SupportSelfServiceResetPassword/00X7F000000N76iUAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: email/unfiled$public/SupportEscalatedCaseReassignment.email
+FullName/Id: unfiled$public/SupportEscalatedCaseReassignment/00X7F000000N76nUAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: email/unfiled$public/SupportSelfServiceNewLoginandPassword.email
+FullName/Id: unfiled$public/SupportSelfServiceNewLoginandPassword/00X7F000000N76jUAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: email/unfiled$public/SupportCaseResponse.email
+FullName/Id: unfiled$public/SupportCaseResponse/00X7F000000N76qUAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: email/unfiled$public/Birthday.email
+FullName/Id: unfiled$public/Birthday/00X7F000000OQerUAG
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: email/unfiled$public/SUPPORTSelfServiceResetPasswordSAMPLE.email
+FullName/Id: unfiled$public/SUPPORTSelfServiceResetPasswordSAMPLE/00X7F000000N76tUAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: email/unfiled$public/CommunityChangePasswordEmailTemplate.email
+FullName/Id: unfiled$public/CommunityChangePasswordEmailTemplate/00X7F000001iiZfUAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: email/unfiled$public/CommunityForgotPasswordEmailTemplate.email
+FullName/Id: unfiled$public/CommunityForgotPasswordEmailTemplate/00X7F000001iiZgUAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: email/unfiled$public/CommunityWelcomeEmailTemplate.email
+FullName/Id: unfiled$public/CommunityWelcomeEmailTemplate/00X7F000001iiZeUAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: email/unfiled$public/SupportEscalatedCaseNotification.email
+FullName/Id: unfiled$public/SupportEscalatedCaseNotification/00X7F000000N76oUAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: email/unfiled$public/SupportCaseAssignmentNotification.email
+FullName/Id: unfiled$public/SupportCaseAssignmentNotification/00X7F000000N76kUAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: email/unfiled$public/SupportCaseCreatedPhoneInquiries.email
+FullName/Id: unfiled$public/SupportCaseCreatedPhoneInquiries/00X7F000000N76lUAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: email/unfiled$public/SupportCaseCreatedWebInquiries.email
+FullName/Id: unfiled$public/SupportCaseCreatedWebInquiries/00X7F000000N76mUAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: email/unfiled$public/MarketingProductInquiryResponse.email
+FullName/Id: unfiled$public/MarketingProductInquiryResponse/00X7F000000N76pUAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: email/unfiled$public/SUPPORTSelfServiceNewCommentNotificationSAMPLE.email
+FullName/Id: unfiled$public/SUPPORTSelfServiceNewCommentNotificationSAMPLE/00X7F000000N76hUAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: email/unfiled$public/SalesNewCustomerEmail.email
+FullName/Id: unfiled$public/SalesNewCustomerEmail/00X7F000000N76rUAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************

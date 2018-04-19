@@ -1,0 +1,192 @@
+************************************************************
+FileName: reports/DataQualityReports/ContractDataQualityDescription.report
+FullName/Id: DataQualityReports/ContractDataQualityDescription/00O7F000004sz0wUAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: reports/DataQualityReports/CaseOwnerDataQuality.report
+FullName/Id: DataQualityReports/CaseOwnerDataQuality/00O7F000004sz0sUAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: reports/DataQualityReports/ContactOwnerDataQuality.report
+FullName/Id: DataQualityReports/ContactOwnerDataQuality/00O7F000004sz0vUAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: reports/DataQualityReports/CampaignDataQualityDescription.report
+FullName/Id: DataQualityReports/CampaignDataQualityDescription/00O7F000004sz0nUAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: reports/DataQualityReports/OpportunityDataQualityScore.report
+FullName/Id: DataQualityReports/OpportunityDataQualityScore/00O7F000004sz13UAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: reports/DataQualityReports/ContractOwnerDataQuality.report
+FullName/Id: DataQualityReports/ContractOwnerDataQuality/00O7F000004sz0yUAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: reports/DataQualityReports/AccountDataQualityDescriptions.report
+FullName/Id: DataQualityReports/AccountDataQualityDescriptions/00O7F000004sz0hUAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: reports/DataQualityReports/ActivityAssignedOwnerDataQuality.report
+FullName/Id: DataQualityReports/ActivityAssignedOwnerDataQuality/00O7F000004sz0kUAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: reports/DataQualityReports/CampaignOwnerDataQuality.report
+FullName/Id: DataQualityReports/CampaignOwnerDataQuality/00O7F000004sz0pUAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: reports/DataQualityReports/CampaignDataQualityScore.report
+FullName/Id: DataQualityReports/CampaignDataQualityScore/00O7F000004sz0oUAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: reports/DataQualityReports/LeadDataQualityScore.report
+FullName/Id: DataQualityReports/LeadDataQualityScore/00O7F000004sz10UAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: reports/DataQualityReports/OpportunityOwnerDataQuality.report
+FullName/Id: DataQualityReports/OpportunityOwnerDataQuality/00O7F000004sz14UAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: reports/DataQualityReports/AccountDataQualityScore.report
+FullName/Id: DataQualityReports/AccountDataQualityScore/00O7F000004sz0iUAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: reports/DataQualityReports/ContactDataQualityScore.report
+FullName/Id: DataQualityReports/ContactDataQualityScore/00O7F000004sz0uUAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: reports/DataQualityReports/ContactDataQualityDescriptions.report
+FullName/Id: DataQualityReports/ContactDataQualityDescriptions/00O7F000004sz0tUAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: reports/DataQualityReports/ContractDataQualityScore.report
+FullName/Id: DataQualityReports/ContractDataQualityScore/00O7F000004sz0xUAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: reports/DataQualityReports/CaseDataQualityDescription.report
+FullName/Id: DataQualityReports/CaseDataQualityDescription/00O7F000004sz0qUAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: reports/DataQualityReports/AccountOwnerDataQuality.report
+FullName/Id: DataQualityReports/AccountOwnerDataQuality/00O7F000004sz0jUAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: reports/DataQualityReports/LeadOwnerDataQuality.report
+FullName/Id: DataQualityReports/LeadOwnerDataQuality/00O7F000004sz11UAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: reports/DataQualityReports/LeadDataQualityDescription.report
+FullName/Id: DataQualityReports/LeadDataQualityDescription/00O7F000004sz0zUAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: reports/DataQualityReports/CaseDataQualityScore.report
+FullName/Id: DataQualityReports/CaseDataQualityScore/00O7F000004sz0rUAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: reports/DataQualityReports/ActivityDataQualityDescription.report
+FullName/Id: DataQualityReports/ActivityDataQualityDescription/00O7F000004sz0lUAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: reports/DataQualityReports/OpportunityDataQualityDescription.report
+FullName/Id: DataQualityReports/OpportunityDataQualityDescription/00O7F000004sz12UAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: reports/DataQualityReports/ActivityDataQualityScore.report
+FullName/Id: DataQualityReports/ActivityDataQualityScore/00O7F000004sz0mUAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************

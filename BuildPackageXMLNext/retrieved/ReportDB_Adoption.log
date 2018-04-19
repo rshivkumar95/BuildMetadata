@@ -1,0 +1,336 @@
+************************************************************
+FileName: reports/DB_Adoption/DB_Adoption_OPPORTUNITY_Trend_Owner.report
+FullName/Id: DB_Adoption/DB_Adoption_OPPORTUNITY_Trend_Owner/00O7F000004surgUAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: reports/DB_Adoption/DB_Adoption_Login_by_Department.report
+FullName/Id: DB_Adoption/DB_Adoption_Login_by_Department/00O7F000004surQUAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: reports/DB_Adoption/DB_Adoption_OPPTYS_w_No_Opp_Product.report
+FullName/Id: DB_Adoption/DB_Adoption_OPPTYS_w_No_Opp_Product/00O7F000004suriUAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: reports/DB_Adoption/DB_Adoption_OPPORTUNITIES_Trend.report
+FullName/Id: DB_Adoption/DB_Adoption_OPPORTUNITIES_Trend/00O7F000004surfUAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: reports/DB_Adoption/DB_Adoption_ACCOUNTS_w_o_Fields_Pop.report
+FullName/Id: DB_Adoption/DB_Adoption_ACCOUNTS_w_o_Fields_Pop/00O7F000004sur8UAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: reports/DB_Adoption/DB_Adoption_Neglected_Customers.report
+FullName/Id: DB_Adoption/DB_Adoption_Neglected_Customers/00O7F000004surUUAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: reports/DB_Adoption/DB_Adoption_New_ACTIVITIES_last_30_Days.report
+FullName/Id: DB_Adoption/DB_Adoption_New_ACTIVITIES_last_30_Days/00O7F000004surYUAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: reports/DB_Adoption/DB_Adoption_Login_by_Role.report
+FullName/Id: DB_Adoption/DB_Adoption_Login_by_Role/00O7F000004surSUAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: reports/DB_Adoption/DB_Adoption_Count_of_Accounts.report
+FullName/Id: DB_Adoption/DB_Adoption_Count_of_Accounts/00O7F000004surFUAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: reports/DB_Adoption/DB_Adoption_CONTACTS_wO_Fields_Populated.report
+FullName/Id: DB_Adoption/DB_Adoption_CONTACTS_wO_Fields_Populated/00O7F000004surBUAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: reports/DB_Adoption/DB_Adoption_Lead_Abandonment.report
+FullName/Id: DB_Adoption/DB_Adoption_Lead_Abandonment/00O7F000004surMUAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: reports/DB_Adoption/DB_Adoption_Neglected_Prospects.report
+FullName/Id: DB_Adoption/DB_Adoption_Neglected_Prospects/00O7F000004surWUAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: reports/DB_Adoption/DB_Adoption_ACTIVITIES_Wall_of_Fame.report
+FullName/Id: DB_Adoption/DB_Adoption_ACTIVITIES_Wall_of_Fame/00O7F000004sur9UAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: reports/DB_Adoption/DB_Adoption_OPPTYS_by_STAGE_entered.report
+FullName/Id: DB_Adoption/DB_Adoption_OPPTYS_by_STAGE_entered/00O7F000004surhUAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: reports/DB_Adoption/DB_Adoption_ACTIVITIES_Wall_of_Shame.report
+FullName/Id: DB_Adoption/DB_Adoption_ACTIVITIES_Wall_of_Shame/00O7F000004surAUAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: reports/DB_Adoption/DB_Adoption_Mass_Emails_Created.report
+FullName/Id: DB_Adoption/DB_Adoption_Mass_Emails_Created/00O7F000004surTUAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: reports/DB_Adoption/Active_User_Logins.report
+FullName/Id: DB_Adoption/Active_User_Logins/00O7F000004sur5UAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: reports/DB_Adoption/DB_Adoption_New_Contacts_Trend.report
+FullName/Id: DB_Adoption/DB_Adoption_New_Contacts_Trend/00O7F000004surbUAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: reports/DB_Adoption/DB_Adoption_Count_of_OPPTYS.report
+FullName/Id: DB_Adoption/DB_Adoption_Count_of_OPPTYS/00O7F000004surHUAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: reports/DB_Adoption/DB_Adoption_Leads_Converted_Last_365.report
+FullName/Id: DB_Adoption/DB_Adoption_Leads_Converted_Last_365/00O7F000004surNUAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: reports/DB_Adoption/DB_Adoption_New_OPPORTUNITIES_last_30.report
+FullName/Id: DB_Adoption/DB_Adoption_New_OPPORTUNITIES_last_30/00O7F000004sureUAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: reports/DB_Adoption/DB_Adoption_Last_Run_Reports.report
+FullName/Id: DB_Adoption/DB_Adoption_Last_Run_Reports/00O7F000004surLUAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: reports/DB_Adoption/DB_Adoption_Login_by_Region.report
+FullName/Id: DB_Adoption/DB_Adoption_Login_by_Region/00O7F000004surRUAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: reports/DB_Adoption/DB_Adoption_New_ACTIVITIES_Trend.report
+FullName/Id: DB_Adoption/DB_Adoption_New_ACTIVITIES_Trend/00O7F000004surXUAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: reports/DB_Adoption/DB_Adoption_Campaigns_Last_30_Days.report
+FullName/Id: DB_Adoption/DB_Adoption_Campaigns_Last_30_Days/00O7F000004surDUAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: reports/DB_Adoption/DB_Adoption_Funnel_Load_Rate.report
+FullName/Id: DB_Adoption/DB_Adoption_Funnel_Load_Rate/00O7F000004surKUAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: reports/DB_Adoption/DB_Adoption_New_Leads_Trend.report
+FullName/Id: DB_Adoption/DB_Adoption_New_Leads_Trend/00O7F000004surdUAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: reports/DB_Adoption/DB_Adoption_Count_of_all_CONTACTS.report
+FullName/Id: DB_Adoption/DB_Adoption_Count_of_all_CONTACTS/00O7F000004surJUAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: reports/DB_Adoption/DB_Adoption_Count_of_OPPTYS_last_365.report
+FullName/Id: DB_Adoption/DB_Adoption_Count_of_OPPTYS_last_365/00O7F000004surIUAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: reports/DB_Adoption/DB_Adoption_New_Accounts_Last_30_Days.report
+FullName/Id: DB_Adoption/DB_Adoption_New_Accounts_Last_30_Days/00O7F000004surZUAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: reports/DB_Adoption/DB_Adoption_Login_Wall_of_Fame.report
+FullName/Id: DB_Adoption/DB_Adoption_Login_Wall_of_Fame/00O7F000004surOUAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: reports/DB_Adoption/DB_Adoption_Campaigns.report
+FullName/Id: DB_Adoption/DB_Adoption_Campaigns/00O7F000004surCUAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: reports/DB_Adoption/DB_Adoption.report
+FullName/Id: DB_Adoption/DB_Adoption/00O7F000004sur7UAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: reports/DB_Adoption/DB_Adoption_PROSPECT_w_Fields_Populated.report
+FullName/Id: DB_Adoption/DB_Adoption_PROSPECT_w_Fields_Populated/00O7F000004surkUAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: reports/DB_Adoption/DB_Adoption_Login_Wall_of_Shame.report
+FullName/Id: DB_Adoption/DB_Adoption_Login_Wall_of_Shame/00O7F000004surPUAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: reports/DB_Adoption/DB_Adoption_OPPTYS_wo_Fields_Populated.report
+FullName/Id: DB_Adoption/DB_Adoption_OPPTYS_wo_Fields_Populated/00O7F000004surjUAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: reports/DB_Adoption/DB_Adoption_New_Leads_Last_30_Days.report
+FullName/Id: DB_Adoption/DB_Adoption_New_Leads_Last_30_Days/00O7F000004surcUAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: reports/DB_Adoption/Active_Users.report
+FullName/Id: DB_Adoption/Active_Users/00O7F000004sur6UAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: reports/DB_Adoption/DB_Adoption_Campaigns_by_Status.report
+FullName/Id: DB_Adoption/DB_Adoption_Campaigns_by_Status/00O7F000004surEUAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: reports/DB_Adoption/DB_Adoption_New_Accounts_Trend.report
+FullName/Id: DB_Adoption/DB_Adoption_New_Accounts_Trend/00O7F000004suraUAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: reports/DB_Adoption/DB_Adoption_Neglected_OPPTYS.report
+FullName/Id: DB_Adoption/DB_Adoption_Neglected_OPPTYS/00O7F000004surVUAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
+************************************************************
+FileName: reports/DB_Adoption/DB_Adoption_Count_of_LEADS.report
+FullName/Id: DB_Adoption/DB_Adoption_Count_of_LEADS/00O7F000004surGUAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+Last Modified By (Name/Id): Shivkumar Rathod/0057F000000LUuwQAG
+************************************************************
