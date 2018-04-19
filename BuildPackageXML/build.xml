@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project xmlns:sf="antlib:com.salesforce" basedir="." default="test" name="Sample usage of Salesforce Ant tasks">
+
+    <property file="build.properties"/>
+    <property environment="env"/>
+
+    <!-- Setting default value for username, password and session id properties to empty string 
+         so unset values are treated as empty. Without this, ant expressions such as ${sf.username}
+         will be treated literally.
+    -->
+    <condition property="sf.username" value=""> <not> <isset property="sf.username"/> </not> </condition>
+    <condition property="sf.password" value=""> <not> <isset property="sf.password"/> </not> </condition>
+    <condition property="sf.sessionId" value=""> <not> <isset property="sf.sessionId"/> </not> </condition>
+
+    <taskdef resource="com/salesforce/antlib.xml" uri="antlib:com.salesforce">
+        <classpath>
+            <pathelement location="../ant-salesforce.jar"/>        	
+        </classpath>
+    </taskdef>
+	
+	<!-- Retrieve the information of all items of a particular metadata type -->
+    <target depends="proxy" name="listMetadata">
+     
+    
+    
+<sf:listMetadata folder="AtosManagerReports" metadataType="Report" password="${sf.password}" resultFilePath="list/logs/retrieved/ReportAtosManagerReports.log" serverurl="${sf.serverurl}" sessionId="${sf.sessionId}" username="${sf.username}"/>
+<sf:listMetadata folder="DreamHouse_Reports" metadataType="Report" password="${sf.password}" resultFilePath="list/logs/retrieved/ReportDreamHouse_Reports.log" serverurl="${sf.serverurl}" sessionId="${sf.sessionId}" username="${sf.username}"/>
+<sf:listMetadata folder="DataQualityReports" metadataType="Report" password="${sf.password}" resultFilePath="list/logs/retrieved/ReportDataQualityReports.log" serverurl="${sf.serverurl}" sessionId="${sf.sessionId}" username="${sf.username}"/>
+<sf:listMetadata folder="unfiled$public" metadataType="Report" password="${sf.password}" resultFilePath="list/logs/retrieved/Reportunfiled$public.log" serverurl="${sf.serverurl}" sessionId="${sf.sessionId}" username="${sf.username}"/>
+<sf:listMetadata folder="DB_Adoption" metadataType="Report" password="${sf.password}" resultFilePath="list/logs/retrieved/ReportDB_Adoption.log" serverurl="${sf.serverurl}" sessionId="${sf.sessionId}" username="${sf.username}"/>
+<sf:listMetadata folder="Salesforce_Adoption_Dashboards" metadataType="Dashboard" password="${sf.password}" resultFilePath="list/logs/retrieved/DashboardSalesforce_Adoption_Dashboards.log" serverurl="${sf.serverurl}" sessionId="${sf.sessionId}" username="${sf.username}"/>
+<sf:listMetadata folder="DreamHouse_Dashboards" metadataType="Dashboard" password="${sf.password}" resultFilePath="list/logs/retrieved/DashboardDreamHouse_Dashboards.log" serverurl="${sf.serverurl}" sessionId="${sf.sessionId}" username="${sf.username}"/>
+<sf:listMetadata folder="DataQualityAnalysis" metadataType="Dashboard" password="${sf.password}" resultFilePath="list/logs/retrieved/DashboardDataQualityAnalysis.log" serverurl="${sf.serverurl}" sessionId="${sf.sessionId}" username="${sf.username}"/>
+<sf:listMetadata folder="Extentia_SIM__MapPlotter_Documents" metadataType="Document" password="${sf.password}" resultFilePath="list/logs/retrieved/DocumentExtentia_SIM__MapPlotter_Documents.log" serverurl="${sf.serverurl}" sessionId="${sf.sessionId}" username="${sf.username}"/>
+<sf:listMetadata folder="bhaddrloc__Bytehash" metadataType="Document" password="${sf.password}" resultFilePath="list/logs/retrieved/Documentbhaddrloc__Bytehash.log" serverurl="${sf.serverurl}" sessionId="${sf.sessionId}" username="${sf.username}"/>
+<sf:listMetadata folder="unfiled$public" metadataType="Email" password="${sf.password}" resultFilePath="list/logs/retrieved/Emailunfiled$public.log" serverurl="${sf.serverurl}" sessionId="${sf.sessionId}" username="${sf.username}"/>
+</target>
+
+	<target name="proxy">
+	   <property name="proxy.host" value="proxy-in.glb.my-it-solutions.net"/>
+	   <property name="proxy.port" value="84"/>
+	   <property name="proxy.user" value="ww930\A674625"/>
+	   <property name="proxy.pwd" value="Shiva#98239637"/>
+	   <setproxy proxyhost="${proxy.host}" proxypassword="${proxy.pwd}" proxyport="${proxy.port}" proxyuser="${proxy.user}"/>
+	  </target>
+
+</project>
