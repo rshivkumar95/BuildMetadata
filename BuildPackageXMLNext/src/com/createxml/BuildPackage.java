@@ -53,14 +53,14 @@ public class BuildPackage {
 			for(String m : members)
 			{
 				Element subElement = doc.createElement("members");
-				subElement.setNodeValue(m);
+				subElement.appendChild(doc.createTextNode(m));
 				rootElement.appendChild(subElement);
 
 
 
 			}
 			Element subElement = doc.createElement("name");
-			subElement.setNodeValue(newType);
+			subElement.appendChild(doc.createTextNode(newType));
 			rootElement.appendChild(subElement);
 			rootNode.appendChild(rootElement);
 

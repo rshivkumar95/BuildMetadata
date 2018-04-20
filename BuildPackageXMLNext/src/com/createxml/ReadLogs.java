@@ -16,6 +16,9 @@ public class ReadLogs {
 		BufferedReader br = null;
 		FileReader fr = null;
 		String TempFilename= filename;
+		System.out.println("FILENAME :"+filename);
+		if(!filename.substring(filename.indexOf(".")+1,filename.length()).equalsIgnoreCase("log"))
+			return;
 		try {
 
 			//br = new BufferedReader(new FileReader(FILENAME));
@@ -52,7 +55,7 @@ public class ReadLogs {
 				//System.out.println(sCurrentLine);
 				if(sCurrentLine.contains("FileName"))
 				{
-					String subFileName = sCurrentLine.substring(sCurrentLine.lastIndexOf("/")+1,sCurrentLine.length());
+					String subFileName = sCurrentLine.substring(sCurrentLine.indexOf("/")+1,sCurrentLine.length());
 					System.out.println(subFileName);
 					if(type==null)
 					{
@@ -63,8 +66,15 @@ public class ReadLogs {
 					//System.out.println(type);
 				}
 			}
-			if(type!="report" && type!="dashboard" && type!="email")
+			System.out.println(type);
+			type=type.trim();
+			if(!(type.equalsIgnoreCase("report") || type.equalsIgnoreCase("dashboard") || type.equalsIgnoreCase("email")))
+			{
 				type="document";
+				
+			}
+			
+				
 			System.out.println("#############"+type+"############");
 			BuildPackage.build(members, type);
 			
