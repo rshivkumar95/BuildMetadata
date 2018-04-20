@@ -21,14 +21,19 @@ public class UpdateBuildXML {
 	public static void updateBuildXML(List<MetaData> md)
 	{
 		try{
-			File inputFile = new File("build.xml");
+			 File inputFile = new File("build.xml");
 	         DocumentBuilderFactory docFactory = DocumentBuilderFactory.newInstance();
 	         DocumentBuilder docBuilder = docFactory.newDocumentBuilder();
 	         Document doc = docBuilder.parse(inputFile);
 	         //NodeList listMetadata=doc.getChildNodes();
 	         
+	         
+	         
 	         NodeList nd = doc.getElementsByTagName("target");
+	         
 	         Node rootNode=nd.item(0);
+	         for (Node child; (child = rootNode.getFirstChild()) != null; rootNode.removeChild(child));
+	         
 	         for(MetaData m : md)
 	         {
 	        	 Element rootElement = doc.createElement("sf:listMetadata");

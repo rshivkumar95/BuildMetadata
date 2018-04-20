@@ -19,29 +19,29 @@
     </taskdef>
 	
 	<!-- Retrieve the information of all items of a particular metadata type -->
-    <target depends="proxy" name="listMetadata">
-     
-    
-    
-<sf:listMetadata folder="AtosManagerReports" metadataType="Report" password="${sf.password}" resultFilePath="list/logs/retrieved/ReportAtosManagerReports.log" serverurl="${sf.serverurl}" sessionId="${sf.sessionId}" username="${sf.username}"/>
-<sf:listMetadata folder="DreamHouse_Reports" metadataType="Report" password="${sf.password}" resultFilePath="list/logs/retrieved/ReportDreamHouse_Reports.log" serverurl="${sf.serverurl}" sessionId="${sf.sessionId}" username="${sf.username}"/>
-<sf:listMetadata folder="DataQualityReports" metadataType="Report" password="${sf.password}" resultFilePath="list/logs/retrieved/ReportDataQualityReports.log" serverurl="${sf.serverurl}" sessionId="${sf.sessionId}" username="${sf.username}"/>
-<sf:listMetadata folder="unfiled$public" metadataType="Report" password="${sf.password}" resultFilePath="list/logs/retrieved/Reportunfiled$public.log" serverurl="${sf.serverurl}" sessionId="${sf.sessionId}" username="${sf.username}"/>
-<sf:listMetadata folder="DB_Adoption" metadataType="Report" password="${sf.password}" resultFilePath="list/logs/retrieved/ReportDB_Adoption.log" serverurl="${sf.serverurl}" sessionId="${sf.sessionId}" username="${sf.username}"/>
-<sf:listMetadata folder="Salesforce_Adoption_Dashboards" metadataType="Dashboard" password="${sf.password}" resultFilePath="list/logs/retrieved/DashboardSalesforce_Adoption_Dashboards.log" serverurl="${sf.serverurl}" sessionId="${sf.sessionId}" username="${sf.username}"/>
-<sf:listMetadata folder="DreamHouse_Dashboards" metadataType="Dashboard" password="${sf.password}" resultFilePath="list/logs/retrieved/DashboardDreamHouse_Dashboards.log" serverurl="${sf.serverurl}" sessionId="${sf.sessionId}" username="${sf.username}"/>
-<sf:listMetadata folder="DataQualityAnalysis" metadataType="Dashboard" password="${sf.password}" resultFilePath="list/logs/retrieved/DashboardDataQualityAnalysis.log" serverurl="${sf.serverurl}" sessionId="${sf.sessionId}" username="${sf.username}"/>
-<sf:listMetadata folder="Extentia_SIM__MapPlotter_Documents" metadataType="Document" password="${sf.password}" resultFilePath="list/logs/retrieved/DocumentExtentia_SIM__MapPlotter_Documents.log" serverurl="${sf.serverurl}" sessionId="${sf.sessionId}" username="${sf.username}"/>
-<sf:listMetadata folder="bhaddrloc__Bytehash" metadataType="Document" password="${sf.password}" resultFilePath="list/logs/retrieved/Documentbhaddrloc__Bytehash.log" serverurl="${sf.serverurl}" sessionId="${sf.sessionId}" username="${sf.username}"/>
-<sf:listMetadata folder="unfiled$public" metadataType="Email" password="${sf.password}" resultFilePath="list/logs/retrieved/Emailunfiled$public.log" serverurl="${sf.serverurl}" sessionId="${sf.sessionId}" username="${sf.username}"/>
+   
+	<target depends="proxy" name="listMetadata">
+	
+	<sf:listMetadata folder="AtosManagerReports" metadataType="Report" password="${sf.password}" resultFilePath="retrieved/ReportAtosManagerReports.log" serverurl="${sf.serverurl}" sessionId="${sf.sessionId}" username="${sf.username}"/>
+<sf:listMetadata folder="DreamHouse_Reports" metadataType="Report" password="${sf.password}" resultFilePath="retrieved/ReportDreamHouse_Reports.log" serverurl="${sf.serverurl}" sessionId="${sf.sessionId}" username="${sf.username}"/>
+<sf:listMetadata folder="DataQualityReports" metadataType="Report" password="${sf.password}" resultFilePath="retrieved/ReportDataQualityReports.log" serverurl="${sf.serverurl}" sessionId="${sf.sessionId}" username="${sf.username}"/>
+<sf:listMetadata folder="unfiled$public" metadataType="Report" password="${sf.password}" resultFilePath="retrieved/Reportunfiled$public.log" serverurl="${sf.serverurl}" sessionId="${sf.sessionId}" username="${sf.username}"/>
+<sf:listMetadata folder="DB_Adoption" metadataType="Report" password="${sf.password}" resultFilePath="retrieved/ReportDB_Adoption.log" serverurl="${sf.serverurl}" sessionId="${sf.sessionId}" username="${sf.username}"/>
+<sf:listMetadata folder="Salesforce_Adoption_Dashboards" metadataType="Dashboard" password="${sf.password}" resultFilePath="retrieved/DashboardSalesforce_Adoption_Dashboards.log" serverurl="${sf.serverurl}" sessionId="${sf.sessionId}" username="${sf.username}"/>
+<sf:listMetadata folder="DreamHouse_Dashboards" metadataType="Dashboard" password="${sf.password}" resultFilePath="retrieved/DashboardDreamHouse_Dashboards.log" serverurl="${sf.serverurl}" sessionId="${sf.sessionId}" username="${sf.username}"/>
+<sf:listMetadata folder="DataQualityAnalysis" metadataType="Dashboard" password="${sf.password}" resultFilePath="retrieved/DashboardDataQualityAnalysis.log" serverurl="${sf.serverurl}" sessionId="${sf.sessionId}" username="${sf.username}"/>
+<sf:listMetadata folder="Extentia_SIM__MapPlotter_Documents" metadataType="Document" password="${sf.password}" resultFilePath="retrieved/DocumentExtentia_SIM__MapPlotter_Documents.log" serverurl="${sf.serverurl}" sessionId="${sf.sessionId}" username="${sf.username}"/>
+<sf:listMetadata folder="bhaddrloc__Bytehash" metadataType="Document" password="${sf.password}" resultFilePath="retrieved/Documentbhaddrloc__Bytehash.log" serverurl="${sf.serverurl}" sessionId="${sf.sessionId}" username="${sf.username}"/>
+<sf:listMetadata folder="unfiled$public" metadataType="Email" password="${sf.password}" resultFilePath="retrieved/Emailunfiled$public.log" serverurl="${sf.serverurl}" sessionId="${sf.sessionId}" username="${sf.username}"/>
 </target>
-
+	
 	<target name="proxy">
 	   <property name="proxy.host" value="proxy-in.glb.my-it-solutions.net"/>
 	   <property name="proxy.port" value="84"/>
 	   <property name="proxy.user" value="ww930\A674625"/>
 	   <property name="proxy.pwd" value="Shiva#98239637"/>
 	   <setproxy proxyhost="${proxy.host}" proxypassword="${proxy.pwd}" proxyport="${proxy.port}" proxyuser="${proxy.user}"/>
-	  </target>
+	  
+    </target>
 
 </project>
